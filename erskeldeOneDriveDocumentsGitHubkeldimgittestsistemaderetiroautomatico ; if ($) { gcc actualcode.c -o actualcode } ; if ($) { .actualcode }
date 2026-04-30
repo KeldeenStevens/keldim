@@ -1,0 +1,32 @@
+[33mcommit 0b356d9a02434bdeb9b856049d942c389734a4f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cde260f 6e617a0
+Author: KeldeenStevens <keldeenclarkperalta@gmail.com>
+Date:   Thu Apr 30 11:27:54 2026 -0400
+
+    Merge branch 'main' of https://github.com/KeldeenStevens/keldim
+
+[33mcommit cde260fc61d54022d53d218663b835ef401b0efc[m
+Author: KeldeenStevens <keldeenclarkperalta@gmail.com>
+Date:   Thu Apr 30 11:27:47 2026 -0400
+
+    Introducción a las variables
+
+[33mcommit 6e617a0a5a3d44ae82b1c76469af68b71eefa67a[m
+Author: KeldeenStevens <keldeenclarkperalta@gmail.com>
+Date:   Wed Apr 29 15:28:33 2026 -0400
+
+    Actualizar el archivo README con las instrucciones de instalación de GCC
+    
+    Se han añadido instrucciones de instalación para el compilador GCC con MSYS2.
+
+[33mcommit 34d00725d9fa3801c7b08d2e2176ecd27bb9aec0[m
+Author: KeldeenStevens <keldeenclarkperalta@gmail.com>
+Date:   Wed Apr 29 14:38:02 2026 -0400
+
+    topandogit
+
+[33mcommit ab89c18e3e7d5319031c405f2c6e25249d79c16b[m
+Author: KeldeenStevens <keldeenclarkperalta@gmail.com>
+Date:   Thu Apr 23 14:07:13 2026 -0400
+
+    Initial commit
