@@ -22,8 +22,17 @@ Precionar OK para todo, y LISTO!
 
 Al haber hecho todo esto, el usuario debe ser capaz de ejecutar (gcc --version) en su consola y salirle lo siguiente:
 
-
 gcc.exe (Rev13, Built by MSYS2 project) 15.2.0
 Copyright (C) 2025 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+ATENCIÓN MAÑON PORFAVOR
+
+Descubrí la opción de Visual Studio para interactuar con Git y que me permitiera ejecutar commits a través de la misma interfaz, por lo que realicé los "checkpoints" desde ahí, este es el motivo por el que hay 2 commits llamados (Eliminación de tasks.json y tempCodeRunner porque no se para qué funcionan, creación de Menu principal y establecimiento de funciones al final del código) Ya que estuve aprendiendo a hacer los commits de esta forma y cometí el error de hacerlo 2 veces (o colocar 2 nombres no lo sé)
+
